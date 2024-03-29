@@ -38,8 +38,7 @@ const UserCard = () => (
     <img src={asabenehImage} alt='box'/>
   </div>
 )
-const numOne = 3
-const numTwo = 2
+
 
 
 // TechList Component
