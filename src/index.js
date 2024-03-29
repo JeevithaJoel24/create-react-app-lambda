@@ -41,21 +41,6 @@ const UserCard = () => (
 const numOne = 3
 const numTwo = 2
 
-const result = (
-  <p>
-    {numOne} + {numTwo} = {numOne + numTwo}
-  </p>
-)
-
-const yearBorn = 1820
-const currentYear = new Date().getFullYear()
-const age = currentYear - yearBorn
-const personAge = (
-  <p>
-    {' '}
-    {author.firstName} {author.lastName} is {age} years old
-  </p>
-)
 
 // TechList Component
 const TechList = () => {
