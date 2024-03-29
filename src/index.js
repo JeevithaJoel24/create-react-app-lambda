@@ -35,7 +35,7 @@ const Header = (props) => {
 }
 const UserCard = () => (
   <div>
-    <img src={asabenehImage} alt='asabeneh image' />
+    <img src={asabenehImage} />
   </div>
 )
 const numOne = 3
